@@ -1,28 +1,50 @@
 {
   "assetsByChunkName": {
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-7e09e9d90f0047045635.js",
-      "component---src-pages-index-js-7e09e9d90f0047045635.js.map"
+      "component---src-pages-index-js-c43e71d022a6e8484334.js",
+      "component---src-pages-index-js-c43e71d022a6e8484334.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-0c798823aaf6f372bb07.js",
-      "component---src-layouts-index-js-0c798823aaf6f372bb07.js.map"
+      "component---src-layouts-index-js-404ca11c6029a02093fb.js",
+      "component---src-layouts-index-js-404ca11c6029a02093fb.js.map"
+    ],
+    "path---page-2": [
+      "path---page-2-a0e39f21c11f6a62c5ab.js",
+      "path---page-2-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
       "path---index-a0e39f21c11f6a62c5ab.js.map"
     ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-247a339d734a82464a2e.js",
+      "component---src-pages-404-js-247a339d734a82464a2e.js.map"
+    ],
     "commons": [
-      "commons-257c5c8e30e7bf91bd9a.js",
-      "commons-257c5c8e30e7bf91bd9a.js.map"
+      "commons-7244c7bf147d6099d794.js",
+      "commons-7244c7bf147d6099d794.js.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-page-2-js": [
+      "component---src-pages-page-2-js-b9724a2796f968bd7403.js",
+      "component---src-pages-page-2-js-b9724a2796f968bd7403.js.map"
     ],
     "app": [
-      "app-5f241466ff0af49c25e4.js",
-      "app-5f241466ff0af49c25e4.js.map"
+      "app-1f3773bf45db47badc22.js",
+      "build-js-styles.css",
+      "app-1f3773bf45db47badc22.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
     ]
   }
 }
